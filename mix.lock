@@ -1,0 +1,4 @@
+%{
+  "event_bus": {:hex, :event_bus, "1.4.1", "8e6323e3cb2f57f1f1d000949dbff8ac2a4f792427a6da6ca8a20f3e844cff45", [:mix], []},
+  "gen_stage": {:hex, :gen_stage, "0.14.0", "65ae78509f85b59d360690ce3378d5096c3130a0694bab95b0c4ae66f3008fad", [:mix], []},
+}
